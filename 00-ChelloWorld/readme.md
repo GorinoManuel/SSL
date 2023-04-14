@@ -1,0 +1,2 @@
+Se hace la prueba de un programa que envía a stdout la cadena "Hello, World!", y luego se redirecciona la salida a un archivo de texto "output.txt".
+El Compilador usado fue el gcc y el éstandar elegido es C17.
