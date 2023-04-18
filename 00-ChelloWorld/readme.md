@@ -1,2 +1,2 @@
-Se hace la prueba de un programa que envía a stdout la cadena "Hello, World!", y luego se redirecciona la salida a un archivo de texto "output.txt".
+Este es el TP N°0 De Manuel Gorino que tiene un programa que hace un "Hello, World!"
 El Compilador usado fue el gcc y el éstandar elegido es C17.
